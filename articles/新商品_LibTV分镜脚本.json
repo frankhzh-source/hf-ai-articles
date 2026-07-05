@@ -1,0 +1,303 @@
+{
+  "title": "新商品 — 丝绸花卉印花睡衣套装",
+  "productName": "待定名·丝绸花卉睡衣套装",
+  "rows": [
+    {
+      "shotNumber": 1,
+      "durationSeconds": 3.0,
+      "shotSize": "中全景",
+      "plotDescription": "店铺/卧室场景背景，AI模特站立，右手持衣架挂睡衣套装，左手自然垂放，微笑看向镜头。画面缓慢推进。",
+      "characters": [
+        {
+          "characterName": "AI模特",
+          "characterDescription": "亚洲女性，黑色长卷发，东方气质，自然淡妆，身着缎面丝绸花卉睡衣套装",
+          "characterImageUrl": ""
+        }
+      ],
+      "characterAction": "右手持衣架挂睡衣，面向镜头，微笑",
+      "emotion": "亲切、优雅、自信",
+      "sceneTags": "卧室场景，暖色灯光，木地板，简约背景",
+      "lightingAndAtmosphere": "柔光箱45°主光 + 暖色背光，色温4500-5000K",
+      "audioEffects": "优雅舒缓BGM起，音量渐入",
+      "dialogue": "",
+      "imageGenerationPrompt": "Asian female model holding silk floral pajama set on a hanger in right hand, luxurious silk fabric with large floral print visible, cozy bedroom background with warm lamplight, full body shot, soft volumetric lighting, cream beige walls, wooden floor, elegant sophisticated atmosphere, 8K quality",
+      "videoMotionPrompt": "slow zoom in 1.0 to 1.05, subtle breathing movement, gentle camera push, 24fps"
+    },
+    {
+      "shotNumber": 2,
+      "durationSeconds": 4.0,
+      "shotSize": "全身",
+      "plotDescription": "纯色米白背景，模特正面站立已穿上全套丝绸睡衣，双手自然垂放，大朵花卉图案和缎面光泽清晰可见。",
+      "characters": [
+        {
+          "characterName": "AI模特",
+          "characterDescription": "亚洲女性，黑色长卷发，东方气质，身着缎面丝绸花卉睡衣套装",
+          "characterImageUrl": ""
+        }
+      ],
+      "characterAction": "正面站立，双手自然垂放两侧",
+      "emotion": "优雅、端庄、从容",
+      "sceneTags": "纯色米白背景，干净简约",
+      "lightingAndAtmosphere": "双柔光箱正面布光，突出缎面光泽，色温5000K",
+      "audioEffects": "BGM保持舒缓节奏",
+      "dialogue": "",
+      "imageGenerationPrompt": "Same model full body front view standing, cream beige clean background, wearing silk floral pajama set, large floral print cascading front, red orange pink blooms, subtle satin sheen on fabric, pink trim collar visible, elegant posture, soft studio lighting emphasizing silk texture, 8K",
+      "videoMotionPrompt": "fixed camera, model slight weight shift, silk fabric gently catching light, natural micro movements, 24fps"
+    },
+    {
+      "shotNumber": 3,
+      "durationSeconds": 4.0,
+      "shotSize": "中全景",
+      "plotDescription": "模特缓慢向右转体约45°，展示侧面腰线和长裤垂坠线条，丝绸面料随动作泛起光泽。",
+      "characters": [
+        {
+          "characterName": "AI模特",
+          "characterDescription": "亚洲女性，黑色长卷发，身着缎面丝绸花卉睡衣套装",
+          "characterImageUrl": ""
+        }
+      ],
+      "characterAction": "向右转体45°，展示侧面线条",
+      "emotion": "自然、流畅、优雅",
+      "sceneTags": "纯色米白背景",
+      "lightingAndAtmosphere": "侧光凸显腰身线条和丝绸光泽，色温5000K",
+      "audioEffects": "BGM持续，无特效音",
+      "dialogue": "",
+      "imageGenerationPrompt": "Same model three-quarter view slowly turning right, silk floral pajama set draping elegantly, satin fabric catching light creating subtle sheen, waist definition highlighted, loose fit pants silhouette flowing, large floral print visible from side, clean beige background, elegant turn, 8K",
+      "videoMotionPrompt": "slow pan right following model turn, silk fabric shimmering with movement, seamless rotation, 24fps"
+    },
+    {
+      "shotNumber": 4,
+      "durationSeconds": 4.0,
+      "shotSize": "中景",
+      "plotDescription": "模特转回正面，轻微调整站姿，丝绸面料在光下泛起柔和光泽，展示完整搭配效果。",
+      "characters": [
+        {
+          "characterName": "AI模特",
+          "characterDescription": "亚洲女性，黑色长卷发，身着缎面丝绸花卉睡衣套装",
+          "characterImageUrl": ""
+        }
+      ],
+      "characterAction": "转回正面，轻微调整重心",
+      "emotion": "自然、从容",
+      "sceneTags": "纯色米白背景",
+      "lightingAndAtmosphere": "正面布光，均匀柔和，突出丝绸光泽",
+      "audioEffects": "BGM持续",
+      "dialogue": "",
+      "imageGenerationPrompt": "Same model front view adjusted standing pose, full silk outfit display, large floral print cascading down front, satin fabric with subtle sheen, pink trim accents, relaxed elegant posture, cream beige background, silk texture visible, 8K",
+      "videoMotionPrompt": "fixed camera, model slight weight shift adjusting stance, silk fabric gently shimmering, 24fps"
+    },
+    {
+      "shotNumber": 5,
+      "durationSeconds": 5.0,
+      "shotSize": "全身",
+      "plotDescription": "模特纯侧面90°，展示背部线条和丝绸面料的垂坠感，S曲线轮廓。",
+      "characters": [
+        {
+          "characterName": "AI模特",
+          "characterDescription": "亚洲女性，黑色长卷发，身着缎面丝绸花卉睡衣套装",
+          "characterImageUrl": ""
+        }
+      ],
+      "characterAction": "站立侧面90°，展示背部",
+      "emotion": "自然、挺拔",
+      "sceneTags": "纯色米白背景",
+      "lightingAndAtmosphere": "侧逆光勾勒S曲线轮廓，凸显丝绸垂坠",
+      "audioEffects": "BGM持续",
+      "dialogue": "",
+      "imageGenerationPrompt": "Same model pure profile view 90 degrees, back of silk robe and pants visible, S-curve silhouette highlighted, silk fabric draping smoothly, elegant standing posture, clean beige background, subtle rim lighting on silk surface, 8K",
+      "videoMotionPrompt": "slow camera arc right to left around model, reveal back and front, silk fabric flowing with movement, 24fps"
+    },
+    {
+      "shotNumber": 6,
+      "durationSeconds": 4.0,
+      "shotSize": "中全景",
+      "plotDescription": "模特保持侧面站立回头看向镜头，展示V领线条和缎面光泽的面部表情。",
+      "characters": [
+        {
+          "characterName": "AI模特",
+          "characterDescription": "亚洲女性，黑色长卷发，身着缎面丝绸花卉睡衣套装",
+          "characterImageUrl": ""
+        }
+      ],
+      "characterAction": "侧身站立，回头看向镜头",
+      "emotion": "温柔、微笑、眼神接触镜头",
+      "sceneTags": "纯色米白背景",
+      "lightingAndAtmosphere": "正面补光突出面部表情和丝绸领口光泽",
+      "audioEffects": "BGM轻柔过渡",
+      "dialogue": "",
+      "imageGenerationPrompt": "Same model looking back over shoulder, side profile facing camera, V-neck collar of silk pajama visible, delicate floral print at neckline, satin fabric sheen, warm lighting on face, soft smile, clean background, 8K",
+      "videoMotionPrompt": "fixed camera, model slow head turn looking back, wavy hair gently moving, silk collar catching light, 24fps"
+    },
+    {
+      "shotNumber": 7,
+      "durationSeconds": 5.0,
+      "shotSize": "中景",
+      "plotDescription": "模特双手轻插入裤袋，展示口袋位置和丝绸裤型的宽松垂坠感。",
+      "characters": [
+        {
+          "characterName": "AI模特",
+          "characterDescription": "亚洲女性，黑色长卷发，身着缎面丝绸花卉睡衣套装",
+          "characterImageUrl": ""
+        }
+      ],
+      "characterAction": "双手插入裤袋姿势",
+      "emotion": "随性、舒适、松弛",
+      "sceneTags": "纯色米白背景",
+      "lightingAndAtmosphere": "整体均匀布光，丝绸光泽自然可见",
+      "audioEffects": "BGM持续",
+      "dialogue": "",
+      "imageGenerationPrompt": "Same model hands in pockets, side view, silk pajama pants relaxed fit, fabric draping softly, satin sheen visible, pocket placement highlighted, comfortable luxury loungewear vibe, soft relaxed pose, clean beige background, 8K",
+      "videoMotionPrompt": "slow push in, model slight casual weight shift, silk fabric moving softly, 24fps"
+    },
+    {
+      "shotNumber": 8,
+      "durationSeconds": 4.0,
+      "shotSize": "大特写",
+      "plotDescription": "镜头推近到领口，粉色滚边+V领交汇处，手指轻触展示丝绸面料的柔滑质感。",
+      "characters": [
+        {
+          "characterName": "AI模特（局部）",
+          "characterDescription": "手部轻触领口，展示丝绸滚边细节",
+          "characterImageUrl": ""
+        }
+      ],
+      "characterAction": "手指轻触领口滚边",
+      "emotion": "精致、关注细节",
+      "sceneTags": "极致聚焦，浅景深背景模糊",
+      "lightingAndAtmosphere": "顶光+补光突出丝绸纤维纹理",
+      "audioEffects": "BGM音量调低，突出视觉",
+      "dialogue": "",
+      "imageGenerationPrompt": "Extreme close up of pink trim collar and V-neck intersection on silk pajama, fingers gently touching luxurious silk fabric, soft focus background, macro detail shot, satin weave texture visible, subtle fabric sheen, shallow depth of field, 8K",
+      "videoMotionPrompt": "macro slow push in, hand subtle movement touching silk fabric, fabric smooth and fluid, 24fps"
+    },
+    {
+      "shotNumber": 9,
+      "durationSeconds": 4.0,
+      "shotSize": "大特写",
+      "plotDescription": "大朵花卉印花图案特写，红橙粉色调花瓣在焦点中心，丝绸光泽衬托印染品质。",
+      "characters": [],
+      "characterAction": "静态展示",
+      "emotion": "精致、高品质",
+      "sceneTags": "花卉图案局部，极致细节",
+      "lightingAndAtmosphere": "均匀布光突出丝绸印染细节和光泽",
+      "audioEffects": "BGM持续",
+      "dialogue": "",
+      "imageGenerationPrompt": "Macro close up of large floral print pattern on silk fabric, red orange pink blooms in center focus, intricate printing detail on satin surface, fabric weave texture of silk, subtle sheen highlighting print depth, shallow depth of field, soft studio lighting, 8K",
+      "videoMotionPrompt": "fixed macro shot, silk fabric gently moving from subtle air movement, print shimmering, 24fps"
+    },
+    {
+      "shotNumber": 10,
+      "durationSeconds": 4.0,
+      "shotSize": "近景",
+      "plotDescription": "模特轻拉袖口展示粉色滚边，丝绸面料的流动感和收边工艺。",
+      "characters": [
+        {
+          "characterName": "AI模特（手部）",
+          "characterDescription": "手指拉扯袖口展示丝绸弹性",
+          "characterImageUrl": ""
+        }
+      ],
+      "characterAction": "轻拉袖口展示弹性",
+      "emotion": "展示品质",
+      "sceneTags": "袖口局部特写",
+      "lightingAndAtmosphere": "近距布光突出丝绸回弹",
+      "audioEffects": "BGM持续",
+      "dialogue": "",
+      "imageGenerationPrompt": "Close up of wrist and silk sleeve cuff, fingers gently pulling pink trim edge, silk fabric stretching showing subtle elasticity, cuff stitching detail on satin, soft warm lighting, macro product detail shot, 8K",
+      "videoMotionPrompt": "fingers slowly pulling and releasing silk fabric, fabric flowing back smoothly, subtle movement loop, 24fps"
+    },
+    {
+      "shotNumber": 11,
+      "durationSeconds": 4.0,
+      "shotSize": "中近景",
+      "plotDescription": "模特手掌沿前襟从上到下轻抚丝绸面料，感受缎面质感的自然动作。",
+      "characters": [
+        {
+          "characterName": "AI模特",
+          "characterDescription": "亚洲女性，黑色长卷发，手抚前襟展示丝绸质感",
+          "characterImageUrl": ""
+        }
+      ],
+      "characterAction": "手掌从上到下抚摸前襟",
+      "emotion": "享受、舒适、满足",
+      "sceneTags": "中景，柔和氛围",
+      "lightingAndAtmosphere": "柔光突出丝绸光泽和流动感",
+      "audioEffects": "BGM轻柔",
+      "dialogue": "",
+      "imageGenerationPrompt": "Medium close up of hand stroking down front of silk robe, fabric smoothness and silky texture visible, satin sheen following hand movement, comfortable satisfied expression, soft fabric drape, warm soothing atmosphere, 8K",
+      "videoMotionPrompt": "hand slowly gliding down silk fabric, fabric smoothly following hand movement, satin light reflection shifting, continuous motion, 24fps"
+    },
+    {
+      "shotNumber": 12,
+      "durationSeconds": 4.0,
+      "shotSize": "特写",
+      "plotDescription": "镜头从肩部沿丝绸面料的垂坠线向下移动至下摆，展示如流水般的垂坠感。",
+      "characters": [],
+      "characterAction": "镜头运动，模特站立不动",
+      "emotion": "流畅、质感",
+      "sceneTags": "丝绸面料垂坠线追踪",
+      "lightingAndAtmosphere": "侧光凸显丝绸垂坠纹理和光泽变化",
+      "audioEffects": "BGM持续",
+      "dialogue": "",
+      "imageGenerationPrompt": "Camera tracking down silk fabric drape line from shoulder to hem, wrinkle-free smooth silk surface, excellent drape quality, satin fabric shimmering with light, floral print flowing downward, clean background, 8K product detail",
+      "videoMotionPrompt": "camera moving down along silk fabric from shoulder to hem, smooth tracking, satin sheen shifting, steady speed, 24fps"
+    },
+    {
+      "shotNumber": 13,
+      "durationSeconds": 3.0,
+      "shotSize": "中景",
+      "plotDescription": "模特捏起下摆轻抖，丝绸面料如水波般轻盈荡漾，展示轻盈度和缎面光泽。",
+      "characters": [
+        {
+          "characterName": "AI模特",
+          "characterDescription": "亚洲女性，黑色长卷发，手捏衣摆轻轻抖动",
+          "characterImageUrl": ""
+        }
+      ],
+      "characterAction": "捏起下摆轻抖展示丝绸轻盈",
+      "emotion": "轻松、活泼、优雅",
+      "sceneTags": "动态展示",
+      "lightingAndAtmosphere": "整体布光，捕捉丝绸动态光泽",
+      "audioEffects": "BGM轻快",
+      "dialogue": "",
+      "imageGenerationPrompt": "Model pinching hem of silk robe and gently shaking, silk fabric rippling and flowing like water, satin sheen shifting with movement, lightweight quality demonstrated, elegant movement, soft flowing silk, clean background, 8K",
+      "videoMotionPrompt": "hand gently shaking silk fabric hem, fabric rippling in waves, satin light reflections dancing, natural fabric movement, loopable motion, 24fps"
+    },
+    {
+      "shotNumber": 14,
+      "durationSeconds": 4.0,
+      "shotSize": "全景",
+      "plotDescription": "回到卧室场景背景，模特双臂展开，自信微笑，丝绸睡衣在暖光下熠熠生辉。",
+      "characters": [
+        {
+          "characterName": "AI模特",
+          "characterDescription": "亚洲女性，黑色长卷发，身着丝绸花卉睡衣套装整体展示",
+          "characterImageUrl": ""
+        }
+      ],
+      "characterAction": "双臂展开，自信微笑站立",
+      "emotion": "自信、喜悦、推荐",
+      "sceneTags": "卧室场景，暖色调，木地板",
+      "lightingAndAtmosphere": "暖色灯光，温馨氛围，突出丝绸整体光泽",
+      "audioEffects": "BGM渐强收尾",
+      "dialogue": "",
+      "imageGenerationPrompt": "Both arms open wide, confident radiant smile, cozy bedroom background with warm lamplight, full body finale pose, silk floral pajama set shimmering in warm light, complete outfit showcase, warm inviting atmosphere, 8K quality",
+      "videoMotionPrompt": "slow pull out revealing full scene, model gently opening arms, silk fabric flowing, 24fps"
+    },
+    {
+      "shotNumber": 15,
+      "durationSeconds": 14.0,
+      "shotSize": "中景",
+      "plotDescription": "定帧画面，屏幕叠加产品名和购买引导CTA。",
+      "characters": [],
+      "characterAction": "静态定帧",
+      "emotion": "展示、引导购买",
+      "sceneTags": "产品展示定格",
+      "lightingAndAtmosphere": "保持前帧灯光",
+      "audioEffects": "BGM保持到尾，渐弱",
+      "dialogue": "",
+      "imageGenerationPrompt": "Freeze frame of model in cozy bedroom, silk floral pajama set glowing, product text overlay '商品名称·丝绸花卉睡衣套装', '点击下方购物车 立即购买', elegant product showcase finale",
+      "videoMotionPrompt": "static frame, no motion, text overlay fades in, 24fps"
+    }
+  ]
+}
